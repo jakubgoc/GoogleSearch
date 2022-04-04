@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h8W4KTAzla+E1SniYOCMOyADxQ+AdADhB8hfMx+PRdbf5yj1eVxXy/VILiWfyXmPfy2W2pJXEhaSzwrusBdykg==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\Selenium\\GoogleSearch\\GoogleSearch\\GoogleSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakub\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\selenium.webdriver.chromedriver\\100.0.4896.6000\\selenium.webdriver.chromedriver.100.0.4896.6000.nupkg.sha512"
+  ],
+  "logs": []
+}
